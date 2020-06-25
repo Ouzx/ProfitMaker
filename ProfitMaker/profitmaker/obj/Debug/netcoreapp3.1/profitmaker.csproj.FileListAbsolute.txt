@@ -1,0 +1,11 @@
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.exe
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.deps.json
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.runtimeconfig.json
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.runtimeconfig.dev.json
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.dll
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\bin\Debug\netcoreapp3.1\profitmaker.pdb
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\obj\Debug\netcoreapp3.1\profitmaker.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\obj\Debug\netcoreapp3.1\profitmaker.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\obj\Debug\netcoreapp3.1\profitmaker.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\obj\Debug\netcoreapp3.1\profitmaker.dll
+C:\Users\oguzh\source\repos\ProfitMaker\profitmaker\obj\Debug\netcoreapp3.1\profitmaker.pdb
